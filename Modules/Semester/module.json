@@ -1,0 +1,13 @@
+{
+    "name": "Semester",
+    "alias": "semester",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Semester\\Providers\\SemesterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
